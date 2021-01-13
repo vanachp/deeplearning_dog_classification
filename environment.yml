@@ -132,4 +132,3 @@ dependencies:
     - requests-toolbelt==0.9.1
     - udacity-pa==0.2.9
     - urllib3==1.26.2
-prefix: C:\Users\Vanach\Anaconda3\envs\deep-learning
